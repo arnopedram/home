@@ -17,7 +17,7 @@ h1 {text-align: center;}
 		width: 100%;
 		border-radius: 10px}
 
-/*this is assignment style*/
+/*this is icon style*/
 
 #hands {margin: 0 auto;
 	width: 85%;
@@ -59,7 +59,7 @@ h1 {text-align: center;}
 	border-radius: 30px;
 }
 
-/*this is the end of assignment style*/
+/*this is the end of icon style*/
 
 .assignment {
 	background-color: #00846e;
@@ -86,3 +86,26 @@ h1 {text-align: center;}
 	width: 60%;
 	float: left;}
 
+/*this is chart assignment */
+
+
+.chartcontainer div {
+	display: inline-block; 
+}
+
+#chartchart { 
+	width: 75%;
+	border: solid white 5px;
+	border-bottom: 0px;
+	background-color: white;
+	margin-left: 2%;
+	border-radius: 5px;
+
+} 
+#charttext {
+	width: 20%;
+	vertical-align: 100px;
+	background-color: white;
+	border-radius: 5px;
+	border: double white 10px;
+}
